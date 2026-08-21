@@ -1,9 +1,9 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="30%" valign="center" align="center">
+    <td width="40%" valign="center" align="center">
       <img src="assets/bocchi.jpg" alt="Bocchi" width="100%" />
     </td>
-    <td width="50%" valign="top">
+    <td width="43%" valign="top">
 
 ```powershell
 > gitbash
@@ -25,7 +25,7 @@ Status: Building backend applications & learning security
 Discord: .xusz
 ```
 </td>
-    <td width="20%" valign="top">
+    <td width="17%" valign="top">
       <pre><code>> stack&tools</code></pre>
       <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="c# logo"/>&nbsp;
